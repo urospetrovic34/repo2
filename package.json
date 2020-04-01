@@ -1,0 +1,27 @@
+{
+  "name": "paket1",
+  "version": "1.0.0",
+  "description": "Primer sa modulom mathjs",
+  "main": "nrt10517.zadatak1.js",
+  "dependencies": {
+    "mathjs": "^6.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urospetrovic34/repo2.git"
+  },
+  "keywords": [
+    "\"shared\"",
+    "\"data\""
+  ],
+  "author": "Uros Petrovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urospetrovic34/repo2/issues"
+  },
+  "homepage": "https://github.com/urospetrovic34/repo2#readme"
+}
